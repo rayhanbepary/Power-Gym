@@ -16,5 +16,11 @@ The website named Power gym has been developed for a gymnasium. This website has
 *	Responsive card for classes
 
 ### Technology used:
-
-
+* Javascript
+* ES6
+* React
+* CSS3
+* Bootstrap
+* react-bootstrap
+* react-icons
+* react-router-dom
