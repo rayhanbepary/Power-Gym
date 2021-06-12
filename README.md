@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-[Live Website](https://power-gym-rb.netlify.app/).
+[Live Website](https://power-gym-rb.netlify.app/)
 
 ## Available Scripts
 
