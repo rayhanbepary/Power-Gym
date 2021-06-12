@@ -2,7 +2,7 @@
 
 [Live Website](https://power-gym-rb.netlify.app/)
 
-## Available Scripts
+## Features:
 
 In the project directory, you can run:
 
